@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @megthedevel
-- 👀 I’m interested in ... front-end projects, back-end projects, any & all learning opportunities! 
+- 👀 I’m interested in ... front-end projects, back-end projects, learning anything, & everything about development!
 - 🌱 I’m currently learning ... HTML, CSS, Javacsript, how to use VSC, GitHub, Git, & React. 
 - 💞️ I’m looking to collaborate on ... any project!
 - 📫 How to reach me ... meganmcfee24@gmail.com
